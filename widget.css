@@ -1,4 +1,4 @@
-#article .tweet-it-wrapper{
+.tweet-it-wrapper{
     position: fixed;
     bottom: 15%;
     right: 5px;
@@ -35,17 +35,17 @@
     animation-fill-mode: forwards;
     animation-delay: 20s;
 }
-#article .tweet-it-wrapper .tweet-it-desc{
+.tweet-it-wrapper .tweet-it-desc{
     font: 20px Georgia, "times new roman", serif;
     line-height: 1.2em;
     margin-top: 10px;
     margin-bottom: 10px;
 }
-#article .tweet-it-wrapper .tweet-it-title{
+.tweet-it-wrapper .tweet-it-title{
     font: bold 24px 'Roboto', sans-serif;
     line-height: 1.2em;
 }
-#article .tweet-it-wrapper .tweet-it-button{
+.tweet-it-wrapper .tweet-it-button{
     font: 20px sans-serif;
     line-height: 1.2em;
     margin-top: 10px;
