@@ -1,7 +1,7 @@
 wam-tweet-widget
 ================
 
-Simple widget written specifically for jekyll sites that displays a tweet this page widget after 20 seconds using css3 animations.
+Simple html widget written specifically for jekyll sites that displays a tweet this page widget after 20 seconds using css3 animations.
 
 That time is configurable in the css3.
 
